@@ -10,9 +10,22 @@
 
 ### 1. GET
 
+Mục tiêu: Gửi yêu cầu GET đến endpoint https://jsonplaceholder.typicode.com/posts để lấy danh sách các bài viết.
+
+🔹 Request Details:
+Method: GET
+
+URL: https://jsonplaceholder.typicode.com/posts
 ![image](https://github.com/user-attachments/assets/3f3c6752-4fd5-46c6-9efc-520b57add3d0)
 
 ### 2. POST
+
+Mục tiêu: Gửi một bài post mới lên endpoint https://jsonplaceholder.typicode.com/posts và xác minh phản hồi từ API.
+
+🔹 Request Details:
+Method: POST
+
+URL: https://jsonplaceholder.typicode.com/posts
 
 ![image](https://github.com/user-attachments/assets/4c920607-e196-45ce-a6eb-9443b944803d)
 
