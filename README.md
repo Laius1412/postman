@@ -2,6 +2,12 @@
 
 ## 🚀 Giới thiệu
 
+### Ngày kiểm thử: 19/06/2025
+
+### Người kiểm thử: Cao Mậu Thành Đạt
+
+### Phương Pháp Kiểm Thử: Kiểm thử tự động và thủ công trên phần mềm Postman.
+
 [Postman](https://www.postman.com) là một công cụ phổ biến để kiểm thử API. Nó cho phép bạn gửi các yêu cầu HTTP (GET, POST, PUT, DELETE...) và nhận phản hồi từ máy chủ một cách trực quan. Ngoài ra, Postman còn hỗ trợ viết kiểm thử (test scripts) để tự động kiểm tra tính đúng đắn của phản hồi.
 
 ---
